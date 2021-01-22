@@ -10,6 +10,9 @@ npm install -g @angular/cli <br />
 Boostrap :<br />
 npm install bootstrap@3.3.7 --save<br />
 <br />
+RxJs : <br />
+npm install rxjs-compat <br />
+<br />
 Pour créer un projet :<br />
 ng new *nom-du-projet*<br />
 <br />

@@ -22,6 +22,7 @@ ng generate component *nom-component*<br />
 <br />
 Pour générer un nouveau service : <br />
 ng g s *nom-service*<br />
+<br />
 Pour accéder à l'aide :<br />
 ng help<br />
 ng generate --help<br />
